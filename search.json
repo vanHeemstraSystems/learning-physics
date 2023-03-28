@@ -11,12 +11,12 @@
     "href": "initiative.html",
     "title": "Initiative",
     "section": "",
-    "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-security-initiative/"
+    "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-physics-initiative/"
   },
   {
     "objectID": "SUMMARY.html",
     "href": "SUMMARY.html",
-    "title": "Learning - Security",
+    "title": "Learning - Physics",
     "section": "",
     "text": "Table of contents\n\nLearning Security"
   },
@@ -25,12 +25,12 @@
     "href": "themes.html",
     "title": "Themes",
     "section": "",
-    "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-security-themes/"
+    "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-physics-themes/"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Learning - Security",
+    "title": "Learning - Physics",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
@@ -39,6 +39,6 @@
     "href": "use-cases.html",
     "title": "Use Cases",
     "section": "",
-    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-security-use-cases/"
+    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-physics-use-cases/"
   }
 ]
