@@ -4,4 +4,4 @@ Limit the size of what you want to learn. "Physics" or "philosophy" is too wide 
 
 We'll go for "Electronics".
 
-See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/2/views/1?pane=issue&itemId=18547675
+See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/11/views/1?pane=issue&itemId=24123447
