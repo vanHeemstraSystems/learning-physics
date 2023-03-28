@@ -7,7 +7,7 @@ Based on "Learning" at https://github.com/vanHeemstraSystems/learning
 
 Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
 
-Can be read as "Learning - Physics" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/VaiLNtxZulQ69lKSHsMr/
+Can be read as "Learning - Physics" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/LJFNAJE7gXyr1zXgymhA/
 
 Can be browsed as "Learning - Physics" at https://vanheemstrasystems.github.io/learning-physics/
 
