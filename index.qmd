@@ -1,5 +1,5 @@
 ---
-title: "Learning - Security"
+title: "Learning - Physics"
 ---
 
 This is a Quarto website.
