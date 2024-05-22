@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/learning-physics/sitemap.xml
+Sitemap: https://vanHeemstraSystems.github.io/learning-physics/sitemap.xml
